@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\bin\Debug\AdvancedLessons.exe.config
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\bin\Debug\AdvancedLessons.exe
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\bin\Debug\AdvancedLessons.pdb
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\obj\Debug\AdvancedLessons.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\obj\Debug\AdvancedLessons.exe
+C:\Users\Admin\Desktop\Work\Improving\CSharp_Advanced\AdvancedLessons\AdvancedLessons\obj\Debug\AdvancedLessons.pdb
